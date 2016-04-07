@@ -21,3 +21,5 @@ And thanks to Assaf for the rootfool name, way better than the original rootful 
 Enjoy,
 
 fG!
+
+P.S.: 10.11.4 update removed csr_set_allow_all() function used to enable/disable SIP. It means this code does not work on El Capitan 10.11.4 or newer versions when released.
